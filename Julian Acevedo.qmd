@@ -1,0 +1,73 @@
+---
+title: "Julian Acevedo"
+#subtitle: "Curriculum Vitae"
+#author: "Julian Acevedo"
+#editor: visual
+#date: "24/05/2024"
+lang: es
+self-contained: true
+fontsize: 14pt
+code-fold: show
+-tools: true
+number-sections: false
+format: html
+toc: true
+toc-title: ""
+toc-depth: 3
+---
+ 
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+require(knitr)
+url<-'C:/Users/gdscience/Documents/Analitica avanzada de datos/CV/JDAP.png'
+knitr::include_graphics(url)
+```
+
+## Sobre mi
+ 
+Estudiante de Maestría en Estadística Aplicada, Especialista en Estadística Aplicada y profesional en Ingeniería de Sistemas con más de 15 años de experiencia en Workforce Management (WFM) y Análisis de Datos en el sector BPO y BPM. Mi experiencia se centra en la capacidad de identificar y abordar desafíos empresariales a través del análisis de datos, potenciando la toma de decisiones estratégicas y operativas.
+ 
+A lo largo de mi carrera, he desarrollado una sólida habilidad para automatizar y optimizar procesos, lo que ha resultado en mejoras significativas en la eficiencia y efectividad operativa. Mi capacidad para liderar equipos multidisciplinarios y trabajar de manera colaborativa ha sido clave en la implementación exitosa de proyectos de Business Intelligence y Data Science.
+ 
+## Experiencia Profesional
+ 
+### ATLANTIC QUANTUM INNOVATIONS
+ 
+#### GERENTE EN CIENCIA DE DATOS
+ 
+##### Estrategia de Datos y Gobernanza:
+ 
+-   Desarrollar y ejecutar la estrategia de datos de la empresa para asegurar que los datos sean una ventaja competitiva.
+ 
+-   Implementar políticas de gobernanza de datos para garantizar la integridad, privacidad y seguridad de los datos.
+ 
+-   Establecer y mantener estándares de calidad de datos y asegurar el cumplimiento de las regulaciones y normativas pertinentes.
+ 
+##### Implementación y Supervisión de Business Intelligence:
+ 
+-   Liderar la creación y mantenimiento de una infraestructura de BI robusta que permita la toma de decisiones basada en datos.
+ 
+-   Supervisar el desarrollo de dashboards, informes y herramientas analíticas que proporcionen insights accionables a diferentes niveles de la organización.
+ 
+-   Colaborar con diferentes departamentos para identificar necesidades de BI y asegurar que las soluciones desarrolladas sean relevantes y útiles.
+ 
+##### Liderazgo en Data Science:
+ 
+-   Dirigir equipos de científicos de datos en la creación de modelos predictivos, análisis avanzados y algoritmos de machine learning que optimicen operaciones y mejoren la experiencia del cliente.
+ 
+-   Facilitar la experimentación y la innovación en análisis de datos para descubrir nuevas oportunidades de negocio.
+ 
+-   Asegurar que los resultados de los modelos de data science se integren eficazmente en los procesos de negocio.
+ 
+## Educación
+ 
+### Actual:
+ 
+MAESTRIA EN ESTADISTICA APLICADA / UNIVERSIDAD DEL NORTE
+ 
+### 2021:
+ 
+ESPECIALISTA EN ESTADISTICA APLICADA / UNIVERSIDAD DEL ATLANTICO
+ 
+### 2012:
+ 
+INGENIERO DE SISTEMAS / FUNDACIÓN UNIVERSITARIA SAN MARTIN
